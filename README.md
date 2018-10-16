@@ -7,3 +7,4 @@ Indice de los ejercicios de la clase de Lina Pradilla
 5. [Reloj mi tiempo](https://linapradilla.github.io/mediosInteractivos/05/) revisa su funcionamiento [aquí](https://youtu.be/eiGE7GHg-EM)
 6. [Video interactivo](https://linapradilla.github.io/mediosInteractivos/06/)
 7. [Ecosistema](https://linapradilla.github.io/mediosInteractivos/07/)
+8. [Ecosistema interactivo](https://linapradilla.github.io/mediosInteractivos/08/)
