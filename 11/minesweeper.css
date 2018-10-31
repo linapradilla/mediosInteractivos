@@ -1,0 +1,33 @@
+body{
+  margin:auto;
+}
+
+.pieza {
+  position: absolute;
+  /*left: 50px;*/
+  /*top: 50px;*/
+}
+
+.tablero {
+  height: 330px;
+  width: 330px;
+}
+.cuadrado {
+  float: left;
+  height: 16px;
+  width: 16px;
+  border-style: outset;
+  background-color: #C0C0C0;
+}
+
+.bomba{
+  background-image: url("http://www.freeminesweeper.org/images/bombrevealed.gif");
+  height: 16px;
+  width: 16px;
+}
+.fila{
+  width: 330px;
+}
+.brillo {
+  box-shadow: inset 0 0 3px 3px yellow;
+}
