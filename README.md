@@ -9,3 +9,4 @@ Indice de los ejercicios de la clase de Lina Pradilla
 7. [Ecosistema](https://linapradilla.github.io/mediosInteractivos/07/)
 8. [Ecosistema interactivo](https://linapradilla.github.io/mediosInteractivos/08/)
 9. Avances del juego [Estructura](https://linapradilla.github.io/mediosInteractivos/10/) Y [prueba de obstaculos aleatorios](https://linapradilla.github.io/mediosInteractivos/11/)
+10. [juego](https://linapradilla.github.io/mediosInteractivos/juego/)
