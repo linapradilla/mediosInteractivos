@@ -10,3 +10,4 @@ Indice de los ejercicios de la clase de Lina Pradilla
 8. [Ecosistema interactivo](https://linapradilla.github.io/mediosInteractivos/08/)
 9. [Avances del juego](https://linapradilla.github.io/mediosInteractivos/juego/)
 10. [juego](https://linapradilla.github.io/mediosInteractivos/juegoJugable/)
+11. [juego multijugador](https://linapradilla.github.io/mediosInteractivos/juegoEntrega/)
