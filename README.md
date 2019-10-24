@@ -1,6 +1,7 @@
 # Medios Interactivos
-Indice de los ejercicios de la clase de Lina Pradilla
-1. [Forma y color](https://linapradilla.github.io/mediosInteractivos/01/)
+Indice de los ejercicios de la clase Medios interactivos 20182 por Lina Pradilla
+Diseño, Universidad de los Andes
+1. [Forma y color](https://linapradilla.github.io/mediosInteractivos/01/): Recrea un pedazo de la obra de kandinsky
 2. [Repetición](https://linapradilla.github.io/mediosInteractivos/02/)
 3. [Movimiento](https://linapradilla.github.io/mediosInteractivos/03/)
 4. [Herramienta de dibujo](https://linapradilla.github.io/mediosInteractivos/04/)
