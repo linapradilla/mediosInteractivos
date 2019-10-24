@@ -6,7 +6,7 @@ Diseño, Universidad de los Andes
 3. [Movimiento](https://linapradilla.github.io/mediosInteractivos/03/): Crea una animación
 4. [Herramienta de dibujo](https://linapradilla.github.io/mediosInteractivos/04/): Crea tu propia herramienta de dibujo
 5. [Reloj mi tiempo](https://linapradilla.github.io/mediosInteractivos/05/) Crea un reloj que simbolice tu percepción del tiempo, revisa su funcionamiento [aquí](https://youtu.be/eiGE7GHg-EM)
-6. [Video interactivo](https://linapradilla.github.io/mediosInteractivos/06/): Crea un video interactivo usando herramientas de sonido.
+6. [Video interactivo](https://editor.p5js.org/linapradilla/full/S1wKiwPt7): Crea un video interactivo usando herramientas de sonido.
 7. [Ecosistema](https://linapradilla.github.io/mediosInteractivos/07/): Crea un ecosistema con al menos 7 especies usando funciones
 8. [Ecosistema interactivo](https://linapradilla.github.io/mediosInteractivos/08/): Añade funciones interactivas 
 9. [Avances del juego](https://linapradilla.github.io/mediosInteractivos/juego/): Avances del proyecto final
